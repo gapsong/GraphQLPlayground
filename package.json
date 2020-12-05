@@ -1,0 +1,23 @@
+{
+  "name": "graphqlplayground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gapsong/GraphQLPlayground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gapsong/GraphQLPlayground/issues"
+  },
+  "homepage": "https://github.com/gapsong/GraphQLPlayground#readme",
+  "dependencies": {
+    "graphql": "^15.4.0",
+    "nodemon": "^2.0.6"
+  }
+}
